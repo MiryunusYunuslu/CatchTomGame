@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatchBird</string>
+    <string name="score_10">Score:0</string>
+    <string name="time_10">Time:10</string>
+</resources>
